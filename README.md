@@ -1,6 +1,12 @@
 # Apm
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+![Alt text](https://github.com/sharma18b/SimpleSpringapi/blob/fnl_app_with_swagger_ui/screenshots/run.png?raw=true "Title")
+![Alt text](https://github.com/sharma18b/SimpleSpringapi/blob/fnl_app_with_swagger_ui/screenshots/homepage.png?raw=true "Title123")
+![Alt text](https://github.com/sharma18b/SimpleSpringapi/blob/fnl_app_with_swagger_ui/screenshots/getreq.png?raw=true "Title")
+![Alt text](https://github.com/sharma18b/SimpleSpringapi/blob/fnl_app_with_swagger_ui/screenshots/triedgetreq.png?raw=true "Title")
+![Alt text](https://github.com/sharma18b/SimpleSpringapi/blob/fnl_app_with_swagger_ui/screenshots/delete.png?raw=true "Title")
+
 
 ## Development server
 
